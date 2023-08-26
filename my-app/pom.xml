@@ -37,7 +37,7 @@
             <configuration>  
                 <archive>  
                     <manifest>  
-                        <mainClass>com.javatpoint.AppMain</mainClass>  
+                        <mainClass>com.mytest.hello</mainClass>  
                     </manifest>  
                 </archive>  
             </configuration>  
